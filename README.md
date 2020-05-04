@@ -107,7 +107,7 @@ sudo bash TBomb.sh
 ## CONTRIBUTORS:
 
 - **SpeedX**<br>
-[-] Mail At: ggspeedx29@gmail.com
+[-] Mail At: rsdraju99@gmail.com
 
 - **DarkestEntropy**<br>
 [-] Check At: https://github.com/darkestentropy
