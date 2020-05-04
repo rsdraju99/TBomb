@@ -110,7 +110,7 @@ sudo bash TBomb.sh
 [-] Mail At: rsdraju99@gmail.com
 
 - **DarkestEntropy**<br>
-[-] Check At: https://github.com/darkestentropy
+[-] Check At: https://github.com/rsdraju99/TBomb.git
 
 - **The Black Hacker Roxstar**<br>
 
@@ -131,8 +131,8 @@ sudo bash TBomb.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail: ggspeedx29@gmail.com<br>
-       YouTube Channel: https://www.youtube.com/c/GyanaTech
+                 Mail: rsdraju99@gmail.com<br>
+       YouTube Channel: https://www.youtube.com/
 ```
 
-<a href="https://www.youtube.com/c/GyanaTech">Check Out My YouTube Channel</a>
+<a href="https://www.youtube.com/">Check Out YouTube Channel</a>
